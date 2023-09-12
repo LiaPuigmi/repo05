@@ -30,3 +30,4 @@
 # EJERCICIO 6: GIT
 **:one: Haz un alias con la finalidad de que cuando escribamos el comando git log adog nos ejecute lo siguiente:**  
 ![Alt text](./Screenshot/CapturaEnunciadoEj6.JPG)  
+>![Alt text](./Screenshot/Captura1Ejercicio6.JPG)
