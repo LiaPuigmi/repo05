@@ -23,3 +23,4 @@
 >![Alt text](./Screenshot/Captura9.JPG)  
 
 **:eight: 5.8 – Explica las diferencias entre un merge FF y un merge no FF**  
+>
