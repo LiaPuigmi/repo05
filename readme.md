@@ -26,3 +26,7 @@
 **:eight: 5.8 – Explica las diferencias entre un merge FF y un merge no FF**  
 >“Fast forward” (FF) significa avance rápido y nos permite fusionar la rama que acabamos de crear directamente con la rama main sin realizar un commit de confirmación. En cambio, “No Fast Forward” (NFF), crea una nueva confirmación con varios padres. Lo que proporciona un mejor seguimiento del historial. Como podemos ver en la imagen:  
 ![Alt text](./Screenshot/Captura11.JPG)  
+
+# EJERCICIO 6: GIT
+**:one: Haz un alias con la finalidad de que cuando escribamos el comando git log adog nos ejecute lo siguiente:**  
+![Alt text](./Screenshot/CapturaEnunciadoEj6.JPG)  
