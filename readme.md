@@ -21,6 +21,8 @@
 
 **:seven: 5.7 – Visualiza el resultado tanto mediante el comando git log --all --oneline --decorate --graph, como desde el pluging de VSC**  
 >![Alt text](./Screenshot/Captura9.JPG)  
+![Alt text](./Screenshot/Captura10.JPG)  
 
 **:eight: 5.8 – Explica las diferencias entre un merge FF y un merge no FF**  
->
+>“Fast forward” (FF) significa avance rápido y nos permite fusionar la rama que acabamos de crear directamente con la rama main sin realizar un commit de confirmación. En cambio, “No Fast Forward” (NFF), crea una nueva confirmación con varios padres. Lo que proporciona un mejor seguimiento del historial. Como podemos ver en la imagen:  
+![Alt text](./Screenshot/Captura11.JPG)  
